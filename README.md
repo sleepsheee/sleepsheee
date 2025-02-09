@@ -32,7 +32,7 @@
 ### 📈 GitHub Activity Graph:
 [![](https://github-readme-activity-graph.cyclic.app/graph?username=sleepsheee&theme=github-compact)](https://github.com/xpssssss/github-readme-activity-graph)
 
-| 。                                                                                                                                       | 。                                                                                                                         |
+| stats                                                                                                                                       | stats                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 | ![sleepsheee's github stats](https://github-readme-stats.vercel.app/api?username=sleepsheee&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sleepsheee&theme=radical&layout=compact) |
 
