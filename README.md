@@ -30,7 +30,7 @@
 
 
 ### 📈 GitHub Activity Graph:
-[![sleepsheee's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sleepsheee&theme=github-compact)](https://github.com/xpssssss/github-readme-activity-graph)
+[![](https://github-readme-activity-graph.cyclic.app/graph?username=sleepsheee&theme=github-compact)](https://github.com/xpssssss/github-readme-activity-graph)
 
 | 。                                                                                                                                       | 。                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
