@@ -10,7 +10,7 @@
 <p align="center">
     <a href="https://github.com/sleepsheee/sleepsheee"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/sleepsheee/sleepsheee/graphs/contributors"><img src="https://img.shields.io/github/contributors/sleepsheee/sleepsheee?color=blue"></a>
-    <a href="https://github.com/sleepsheee/sleepsheee/stargazers"><img src="https://img.shields.io/github/stars/BEPb/BEPb.svg?logo=github"></a>
+    <a href="https://github.com/sleepsheee/sleepsheee/stargazers"><img src="https://img.shields.io/github/stars/sleepsheee/sleepsheee?logo=github"></a>
     <a href="https://github.com/sleepsheee/sleepsheee/network/members"><img src="https://img.shields.io/github/forks/sleepsheee/sleepsheee.svg?color=blue&logo=github"></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=sleepsheee.sleepsheee" alt="visitors"/>   
 </p>
@@ -44,26 +44,10 @@
 <!--   grid-snake -->
 ![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg)
 
-<!--   skyline 
-<a href="https://skyline.github.com/BEPb/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
--->
-
-<!--  2d history skills -->
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=sleepsheee" width="auto"></img>
-
-<p align="center"> 
-
-<img src="./src/credly0.png" alt="ibm" width="100%">
-<img src="./src/credly1.png" alt="ibm" width="100%">
-<img src="./src/credly2.png" alt="ibm" width="100%">
-</p>
-
-
-
 #### Thanks for visiting :heart:
 
 <p align="center"> 
-<img src="https://profile-counter.glitch.me/BEPb/count.svg">  
+<img src="https://profile-counter.glitch.me/sleepsheee/count.svg">  
 
 [MIT](LICENSE)
 
