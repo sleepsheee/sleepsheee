@@ -10,7 +10,7 @@
 <p align="center">
     <a href="https://github.com/sleepsheee/sleepsheee"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/sleepsheee/sleepsheee/graphs/contributors"><img src="https://img.shields.io/github/contributors/sleepsheee/sleepsheee?color=blue"></a>
-    <a href="https://github.com/sleepsheee/sleepsheee/stargazers"><img src="https://img.shields.io/github/stars/sleepsheee/sleepsheee?logo=github"></a>
+<!--     <a href="https://github.com/sleepsheee/sleepsheee/stargazers"><img src="https://img.shields.io/github/stars/sleepsheee/sleepsheee?logo=github"></a> -->
     <a href="https://github.com/sleepsheee/sleepsheee/network/members"><img src="https://img.shields.io/github/forks/sleepsheee/sleepsheee.svg?color=blue&logo=github"></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=sleepsheee.sleepsheee" alt="visitors"/>   
 </p>
@@ -35,8 +35,6 @@
 | Github Stats                                                                                                                                       | Most Used Language                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 | ![sleepsheee's github stats](https://github-readme-stats.vercel.app/api?username=sleepsheee&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sleepsheee&theme=radical&layout=compact) |
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sleepsheee"></img>
 
 <!--   profile-green-animate -->
 ![](./profile-3d-contrib/profile-green-animate.svg)
